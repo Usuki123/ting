@@ -1,0 +1,21 @@
+<html>
+<head>
+	<title>Welcome!</title>
+</head>
+
+<body>
+<h1 style="color:red;">Go away </h1>
+<p>shoo</p>
+
+<script>
+	var CSStransforms = anime({
+	targets: 'p',
+	translateX: 250,
+	scale:2,
+rotate: '1turn'
+	
+</body>
+
+
+
+</html>
